@@ -22,12 +22,12 @@ O objetivo deste projeto é fornecer um ponto de partida simples para o aprendiz
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone https://github.com/vitorshaft/bankUI.git
    ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd nome-do-repositorio
+    cd bankUI
     ```
 
 3. Execute o programa:
